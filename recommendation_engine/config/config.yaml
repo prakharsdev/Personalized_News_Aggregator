@@ -1,0 +1,3 @@
+gcs_bucket: 'your_gcs_bucket_name'
+bigquery_project: 'your_project'
+bigquery_dataset: 'your_dataset'

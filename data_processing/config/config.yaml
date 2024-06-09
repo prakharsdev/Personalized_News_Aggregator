@@ -1,0 +1,6 @@
+trino:
+  host: 'your_trino_host'
+  port: 8080
+  user: 'your_trino_user'
+  catalog: 'your_catalog'
+  schema: 'your_schema'
